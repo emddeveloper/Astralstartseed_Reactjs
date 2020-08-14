@@ -1,0 +1,15 @@
+{
+  "name": "astralstarseed",
+  "version": "1.0.0",
+  "description": "astralstarseed redesign with react js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "emd developer -sk aminul islam",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
